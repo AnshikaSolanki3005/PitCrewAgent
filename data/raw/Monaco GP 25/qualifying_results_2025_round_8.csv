@@ -1,0 +1,21 @@
+Abbreviation,Driver ID,Full Name,Team,Q1 Time,Q2 Time,Q3 Time,Position
+NOR,norris,Lando Norris,McLaren,0 days 00:01:11.285000,0 days 00:01:10.570000,0 days 00:01:09.954000,1.0
+LEC,leclerc,Charles Leclerc,Ferrari,0 days 00:01:11.229000,0 days 00:01:10.581000,0 days 00:01:10.063000,2.0
+PIA,piastri,Oscar Piastri,McLaren,0 days 00:01:11.308000,0 days 00:01:10.858000,0 days 00:01:10.129000,3.0
+HAM,hamilton,Lewis Hamilton,Ferrari,0 days 00:01:11.575000,0 days 00:01:10.883000,0 days 00:01:10.382000,4.0
+VER,max_verstappen,Max Verstappen,Red Bull Racing,0 days 00:01:11.431000,0 days 00:01:10.875000,0 days 00:01:10.669000,5.0
+HAD,hadjar,Isack Hadjar,Racing Bulls,0 days 00:01:11.811000,0 days 00:01:11.040000,0 days 00:01:10.923000,6.0
+ALO,alonso,Fernando Alonso,Aston Martin,0 days 00:01:11.674000,0 days 00:01:11.182000,0 days 00:01:10.924000,7.0
+OCO,ocon,Esteban Ocon,Haas F1 Team,0 days 00:01:11.839000,0 days 00:01:11.262000,0 days 00:01:10.942000,8.0
+LAW,lawson,Liam Lawson,Racing Bulls,0 days 00:01:11.818000,0 days 00:01:11.250000,0 days 00:01:11.129000,9.0
+ALB,albon,Alexander Albon,Williams,0 days 00:01:11.629000,0 days 00:01:10.732000,0 days 00:01:11.213000,10.0
+SAI,sainz,Carlos Sainz,Williams,0 days 00:01:11.707000,0 days 00:01:11.362000,,11.0
+TSU,tsunoda,Yuki Tsunoda,Red Bull Racing,0 days 00:01:11.800000,0 days 00:01:11.415000,,12.0
+HUL,hulkenberg,Nico Hulkenberg,Kick Sauber,0 days 00:01:11.871000,0 days 00:01:11.596000,,13.0
+RUS,russell,George Russell,Mercedes,0 days 00:01:11.507000,,,14.0
+ANT,antonelli,Kimi Antonelli,Mercedes,0 days 00:01:11.880000,,,15.0
+BOR,bortoleto,Gabriel Bortoleto,Kick Sauber,0 days 00:01:11.902000,,,16.0
+BEA,bearman,Oliver Bearman,Haas F1 Team,0 days 00:01:11.979000,,,17.0
+GAS,gasly,Pierre Gasly,Alpine,0 days 00:01:11.994000,,,18.0
+STR,stroll,Lance Stroll,Aston Martin,0 days 00:01:12.563000,,,19.0
+COL,colapinto,Franco Colapinto,Alpine,0 days 00:01:12.597000,,,20.0
